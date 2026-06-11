@@ -45,8 +45,7 @@ These are generated automatically by the notebook and do not need to be download
 - `mousehuman_100pts_euclidean_icdm.csv`
 - `mousehuman_100pts_euclidean_GW_dmat.csv`
 
-> The GW distance matrix computation is slow (~2–8 hours depending on hardware).
-> Pre-computed matrices can be shared via Zenodo or Google Drive — contact the author.
+> The GW distance matrix computation is slow 
 
 ---
 
