@@ -84,3 +84,54 @@ Two complementary morphology featurization approaches were used:
 ---
 
 ## 📁 Repository Structure
+
+
+---
+
+## 🧠 Tools & Libraries
+
+- Python
+- NumPy, Pandas
+- scikit-learn
+- CAJAL morphology toolkit
+- Skeleton-Keys (Allen Institute)
+- UMAP-learn
+- Matplotlib / Seaborn
+
+---
+
+## 🚀 Future Work
+
+- Extend analysis to non-human primate interneurons
+- Integrate electrophysiology + transcriptomics (multi-modal learning)
+- Improve cross-species domain adaptation models
+- Explore graph neural networks on neuron morphology
+- Increase dataset size and reduce class imbalance effects
+
+---
+
+## 📚 Scientific Contribution
+
+This work contributes to understanding:
+
+- Cross-species conservation of interneuron morphology
+- Machine learning approaches for neuronal classification
+- Limitations of morphology-only representations in human cortex
+- Utility of CAJAL and Skeleton-Keys for computational neuroanatomy
+
+---
+
+## 👤 Author
+
+**Nandita Jayadevan**  
+MSc Medical Biophysics  
+University of Toronto  
+
+---
+
+## 📄 Citation
+
+If using this work, please cite:
+> Jayadevan, N. (2024). Cross-Species Neuron Morphology-Based Cell-Type Classification. HMB496 Thesis, University of Toronto.
+
+---
