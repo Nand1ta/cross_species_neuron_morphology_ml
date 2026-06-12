@@ -1,4 +1,4 @@
-# 🧬 Cross-Species Neuron Morphology-Based Cell-Type Classification
+#  Cross-Species Neuron Morphology-Based Cell-Type Classification
 
 **Nandita Jayadevan**  
 Supervisor: Dr. Shreejoy Tripathy  
@@ -6,7 +6,7 @@ HMB496 Undergraduate Thesis Project — University of Toronto (2024)
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project investigates whether neuronal morphology alone can be used to classify interneuron cell types across species (mouse → human) using machine learning applied to 3D neuron reconstructions.
 
@@ -14,13 +14,13 @@ We leverage publicly available Patch-seq and morphological datasets from the All
 
 ---
 
-## 🎯 Research Question
+## Research Question
 
 Can morphological features of neurons reliably predict conserved interneuron subclasses across mouse and human brains?
 
 ---
 
-## 🧪 Datasets
+## Datasets
 
 This study uses three main datasets:
 
@@ -32,9 +32,9 @@ All neurons are represented in **SWC format** with matched transcriptomic cell-t
 
 ---
 
-## ⚙️ Methods
+##  Methods
 
-### 🧬 Feature Extraction
+### Feature Extraction
 
 Two complementary morphology featurization approaches were used:
 
@@ -46,7 +46,7 @@ Two complementary morphology featurization approaches were used:
 
 ---
 
-### 🤖 Machine Learning Models
+### Machine Learning Models
 
 - Random Forest Classifier
 - Dummy baseline classifier (random label permutation)
@@ -55,7 +55,7 @@ Two complementary morphology featurization approaches were used:
 
 ---
 
-### 📊 Evaluation Metrics
+### Evaluation Metrics
 
 - Accuracy (primary metric)
 - Confusion matrices
@@ -64,7 +64,7 @@ Two complementary morphology featurization approaches were used:
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 - **Mouse morphology classification accuracy:** ~61%
 - **Human morphology classification accuracy:** ~35%
@@ -73,7 +73,7 @@ Two complementary morphology featurization approaches were used:
 
 ---
 
-## 🔬 Main Findings
+## Main Findings
 
 - Morphological features partially encode interneuron identity within species.
 - Strong performance in mouse datasets suggests robust morphological signatures.
@@ -83,12 +83,12 @@ Two complementary morphology featurization approaches were used:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 
 ---
 
-## 🧠 Tools & Libraries
+##  Tools & Libraries
 
 - Python
 - NumPy, Pandas
@@ -100,7 +100,7 @@ Two complementary morphology featurization approaches were used:
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 
 - Extend analysis to non-human primate interneurons
 - Integrate electrophysiology + transcriptomics (multi-modal learning)
@@ -110,7 +110,7 @@ Two complementary morphology featurization approaches were used:
 
 ---
 
-## 📚 Scientific Contribution
+##  Scientific Contribution
 
 This work contributes to understanding:
 
@@ -121,15 +121,15 @@ This work contributes to understanding:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Nandita Jayadevan**  
-MSc Medical Biophysics  
+BSc Neuroscience and Statistics  
 University of Toronto  
 
 ---
 
-## 📄 Citation
+## Citation
 
 If using this work, please cite:
 > Jayadevan, N. (2024). Cross-Species Neuron Morphology-Based Cell-Type Classification. HMB496 Thesis, University of Toronto.
